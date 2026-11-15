@@ -5,7 +5,7 @@ Challenge: *Flame in Freefall*
 
 An explainable, web-based dashboard that summarizes, ranks and compares NASA's microgravity combustion investigations for spacecraft and Moon-habitat fire safety.
 
-**Live demo:** `https://<your-github-username>.github.io/flame-in-freefall/`
+**Live demo:** `https://github.com/DrKainatRizwan/flame-in-freefall`
 
 ## What it does
 - **Buoyancy flame simulator (hero):** drag gravity from orbit (0 g) through Moon and Mars to Earth (1 g) and watch a candle flame turn from a dim blue sphere into a yellow teardrop. It's a visual model for intuition, not a combustion solver; partial-gravity shapes are illustrative because NASA has no partial-gravity combustion data yet.
